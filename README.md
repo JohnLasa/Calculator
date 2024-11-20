@@ -1,2 +1,2 @@
-Simple calculator with last answer abilities
-Applause would be appreciated
+Simple calculator with last answer abilities, applause would be appreciated
+
